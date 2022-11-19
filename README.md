@@ -1,4 +1,4 @@
-<img src="img\computer-illustration.png"  width="240px" align="right">
+<img src="img\computer-illustration.png"  width="200px" align="right">
 
 ## Hey! Welcome to my profile! How is it going? 👋
 
