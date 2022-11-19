@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @vilelas
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img src="img\computer-illustration.png"  width="260px" align="right">
 
-<!---
-vilelas/vilelas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hey! Welcome to my profile! How is it going? 👋
+
+* 🚀 I am currently a computer science student at [UFAL](https://ufal.br/)
+* 💻 Python, JavaScript, Node.js, MySQL, MongoDB
+* ✨ Learning is continuous and there will always be a next level
