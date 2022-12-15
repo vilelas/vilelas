@@ -1,7 +1,7 @@
 <img src="img\computer-illustration.png"  width="200px" align="right">
 
-## Hey! Welcome to my profile! How is it going? 👋
+## Olá! Bem-vindo ao meu perfil! Como vai?? 👋
 
-* 🚀 I am currently a computer science student at [UFAL](https://arapiraca.ufal.br/graduacao/ciencia-da-computacao)
+* 🚀 Atualmente, sou estudante de ciência da computação na [UFAL](https://arapiraca.ufal.br/graduacao/ciencia-da-computacao)
 * 💻 Python, JavaScript, Node.js, MySQL and MongoDB
-* ✨ Learning is continuous and there will always be a next level
+* ✨ O aprendizado é contínuo e sempre haverá um próximo nível
