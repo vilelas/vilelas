@@ -3,5 +3,5 @@
 ## Olá! Bem-vindo ao meu perfil! Como vai?? 👋
 
 * 🚀 Atualmente, sou estudante de ciência da computação na [UFAL](https://arapiraca.ufal.br/graduacao/ciencia-da-computacao)
-* 💻 Python, JavaScript, Node.js and MongoDB
+* 💻 Python, JavaScript, Node.js, MongoDB
 * ✨ O aprendizado é contínuo e sempre haverá um próximo nível
